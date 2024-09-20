@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+   
+    background-image: linear-gradient( to bottom right, #283b88b7,#382172a9);;
+    /* height: 95vh; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#det{
+
+    background-image: linear-gradient( to bottom left, #2c4ac39d,#39266954);  
+
+}
+#search{
+    background-image: linear-gradient( to bottom right, #2c4ac39d,#39266954);
+    /* background-color:#2574db5a ; */
+}
+#wd{
+    margin-bottom: 20px;
+}
+.details{
+    
+    font-weight: 200;
+    color:wheat;
+ 
+    
+}
